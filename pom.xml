@@ -29,6 +29,7 @@ under the License.
 
     <modules>
         <module>dddplus-spec</module>
+        <module>dddplus-cps</module>
         <module>dddplus-runtime</module>
         <module>dddplus-plugin</module>
         <module>dddplus-enforce</module>
